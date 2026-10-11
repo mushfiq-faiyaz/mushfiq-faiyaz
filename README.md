@@ -45,8 +45,11 @@ Mobile-first expense tracking app from RanFy Inc.
 </td>
 <td width="50%" valign="top">
 
-**PidiFie**
-My own Acrobat-style PDF reader and editor
+**[PidiFie](https://pidifie.vercel.app/)**
+
+A private PDF reader and editor: annotate, sign, rotate, split and merge pages.
+
+[🔗 Live demo](https://pidifie.vercel.app/)
 
 </td>
 </tr>
