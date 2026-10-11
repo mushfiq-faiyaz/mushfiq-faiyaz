@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="avatar.png" width="190" alt="Mushfiq"/>
+<img src="avatar.jpeg" width="190" alt="Mushfiq"/>
 
 **Hey, I'm Mushfiq 👋**
 *I turn ideas into apps, and data into decisions.*
