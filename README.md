@@ -120,7 +120,6 @@ I'm open to freelance work and collaborations in AI and product building.
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=mushfiq-faiyaz&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0b0820)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0b0820&height=90&section=footer" width="100%" alt=""/>
 
