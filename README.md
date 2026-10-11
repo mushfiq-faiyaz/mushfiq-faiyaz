@@ -1,5 +1,7 @@
 <div align="center"> <img src="hero.svg" width="100%" alt="Mushfiqur Rahman Faiyaz, AI engineer in the making"/> <br/> <img src="avatar-round.png" width="190" alt="Mushfiqur Rahman Faiyaz"/>
 
+
+
 ### Data Science student. AI builder. Designer at heart.
 *I turn ideas into working products, and data into decisions.*
 
