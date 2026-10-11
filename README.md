@@ -25,7 +25,7 @@
 |:--|:--|
 | 🧠 **AI engineering** | Learning and building LLM apps, with RAG pipelines as my current focus |
 | 📊 **Statistics and data** | First-year Statistics and Data Science at Jahangirnagar University |
-| 🛠️ **Product building** | I ship real apps under my own studio, RanFy Inc. |
+| 🛠️ **Product building** | I ship real apps under my own studio, RanFie Inc. |
 | 🎨 **Design and sound** | Graphic design and music production, so what I build looks and feels right |
 
 <br/>
