@@ -38,7 +38,7 @@
 
 **[ExpendFy](https://expendfy-mobile.vercel.app/)**
 
-Mobile-first expense tracking app from RanFy Inc.
+Mobile-first expense tracking app from RanFie Inc.
 
 [🔗 Live demo](https://expendfy-mobile.vercel.app/)
 
@@ -64,7 +64,7 @@ A retrieval-augmented generation system built step by step with ChromaDB and Gro
 
 **[RoaFy](https://roafy.vercel.app/)**
 
-Learning roadmap tracker from RanFy Inc.
+Learning roadmap tracker from RanFie Inc.
 
 [🔗 Live demo](https://roafy.vercel.app/)
 
