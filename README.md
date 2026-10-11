@@ -36,8 +36,11 @@
 <tr>
 <td width="50%" valign="top">
 
-**ExpendFy**
-Expense tracking app from RanFy Inc.
+**[ExpendFy](https://expendfy-mobile.vercel.app/)**
+
+Mobile-first expense tracking app from RanFy Inc.
+
+[🔗 Live demo](https://expendfy-mobile.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -56,12 +59,17 @@ A retrieval-augmented generation system built step by step with ChromaDB and Gro
 </td>
 <td width="50%" valign="top">
 
-**Fresh Texfy · RoaFy**
-More products in the RanFy Inc. lineup
+**[RoaFy](https://roafy.vercel.app/)**
+
+Learning roadmap tracker from RanFy Inc.
+
+[🔗 Live demo](https://roafy.vercel.app/)
 
 </td>
 </tr>
 </table>
+
+More from RanFy Inc.: **Fresh Texfy**
 
 <br/>
 
@@ -87,8 +95,6 @@ More products in the RanFy Inc. lineup
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mushfiq-faiyaz&show_icons=true&hide_border=true&bg_color=0b0820&title_color=a78bfa&icon_color=22d3ee&text_color=ffffff"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiq-faiyaz&hide_border=true&background=0b0820&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mushfiq-faiyaz&bg_color=0b0820&color=a78bfa&line=7c3aed&point=22d3ee&area=true&hide_border=true)
 
 </div>
 
