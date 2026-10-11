@@ -11,7 +11,7 @@
 
 <br/>
 
-![Founder](https://img.shields.io/badge/Founder-RanFy%20Inc.-7c3aed?style=for-the-badge&labelColor=0b0820)
+![Founder](https://img.shields.io/badge/Founder-RanFie%20Inc.-7c3aed?style=for-the-badge&labelColor=0b0820)
 ![Studying](https://img.shields.io/badge/Studying-Statistics%20%26%20Data%20Science-4c1d95?style=for-the-badge&labelColor=0b0820)
 ![Focus](https://img.shields.io/badge/Focus-LLMs%20%26%20RAG-22d3ee?style=for-the-badge&labelColor=0b0820)
 
@@ -72,7 +72,7 @@ Learning roadmap tracker from RanFy Inc.
 </tr>
 </table>
 
-More from RanFy Inc.: **Fresh Texfy**
+More from RanFie Inc.: **Fresh Texfy**
 
 <br/>
 
