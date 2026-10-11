@@ -1,104 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:7c3aed&height=180&section=header&text=Mushfiqur%20Rahman%20Faiyaz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20RanFy%20Inc.&descAlignY=58&descSize=16" width="100%"/>
+<img src="hero.svg" width="100%" alt="Mushfiqur Rahman Faiyaz, AI engineer in the making"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Stats+%2B+Data+Science+%40+Jahangirnagar+University;Building+toward+AI+Engineering;Designer.+Producer.+Builder.;Shipping+apps+under+RanFy+Inc." alt="typing intro"/>
-</a>
+<br/>
+
+<img src="avatar.jpeg" width="170" alt="Mushfiqur Rahman Faiyaz"/>
+
+### Statistics student. AI builder. Designer at heart.
+*I turn ideas into working products, and data into decisions.*
+
+<br/>
+
+![Founder](https://img.shields.io/badge/Founder-RanFy%20Inc.-7c3aed?style=for-the-badge&labelColor=0b0820)
+![Studying](https://img.shields.io/badge/Studying-Statistics%20%26%20Data%20Science-4c1d95?style=for-the-badge&labelColor=0b0820)
+![Focus](https://img.shields.io/badge/Focus-LLMs%20%26%20RAG-22d3ee?style=for-the-badge&labelColor=0b0820)
 
 </div>
 
-<div align="center">
+<br/>
 
-<img src="avatar.jpeg" width="190" alt="Mushfiq"/>
-
-**Hey, I'm Mushfiq 👋**
-*I turn ideas into apps, and data into decisions.*
-
-</div>
-
----
-
-## 🧠 `model_card.md`
-
-> A README styled like a model card, because why not.
+## ⚡ What I do
 
 | | |
-|---|---|
-| **Model name** | `Mushfiq-v1` |
-| **Architecture** | Statistics-trained, AI-engineering fine-tuned |
-| **Base training** | Statistics and Data Science @ Jahangirnagar University (year 1) |
-| **Fine-tuning** | LLMs, RAG pipelines, prompt engineering |
-| **Creative adapters** | Music production, graphic design |
-| **Deployment** | Bangladesh 🇧🇩 |
-| **Status** | Training in progress, loss decreasing |
+|:--|:--|
+| 🧠 **AI engineering** | Learning and building LLM apps, with RAG pipelines as my current focus |
+| 📊 **Statistics and data** | First-year Statistics and Data Science at Jahangirnagar University |
+| 🛠️ **Product building** | I ship real apps under my own studio, RanFy Inc. |
+| 🎨 **Design and sound** | Graphic design and music production, so what I build looks and feels right |
 
-### Intended use
-- Turning ideas into working apps, fast
-- RAG systems and AI-powered tools
-- Visual design and brand identity that does not look templated
+<br/>
 
-### Known limitations
-- Still training (10 months into the AI path and counting)
-- Sleep schedule not yet optimized
+## 🚀 What I'm building
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎛️ Now playing
+**ExpendFy**
+Expense tracking app from RanFy Inc.
 
-```text
- ▁▂▃▅▆▇█▇▆▅▃▂▁▂▃▅▆▇█▇▆▅▃▂▁
- ◄◄   ▶   ►►      🎧 building in silence, mixing in my head
- ───●────────────────  ∞
-```
+</td>
+<td width="50%" valign="top">
 
----
+**PidiFie**
+My own Acrobat-style PDF reader and editor
 
-## 🚀 Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it is |
-|---|---|
-| **ExpendFy** | Expense tracking app by RanFy Inc. |
-| **PidiFie** | My own Acrobat-style PDF reader and editor |
-| **Fresh Texfy** | Text tool from the RanFy Inc. lineup |
-| **RoaFy** | Another RanFy Inc. app |
-| **RAG from scratch** | Learning retrieval-augmented generation step by step with ChromaDB and Groq |
+**RAG from scratch**
+A retrieval-augmented generation system built step by step with ChromaDB and Groq
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧰 Stack
+**Fresh Texfy · RoaFy**
+More products in the RanFy Inc. lineup
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tools I work with
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=A78BFA)
-![Vite](https://img.shields.io/badge/Vite-0f0c29?style=for-the-badge&logo=vite&logoColor=A78BFA)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0f0c29?style=for-the-badge&logoColor=A78BFA)
-![Cursor](https://img.shields.io/badge/Cursor-0f0c29?style=for-the-badge&logo=cursor&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-0b0820?style=flat-square&logo=python&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-0b0820?style=flat-square&logo=react&logoColor=a78bfa)
+![Vite](https://img.shields.io/badge/Vite-0b0820?style=flat-square&logo=vite&logoColor=a78bfa)
+![Tailwind](https://img.shields.io/badge/Tailwind-0b0820?style=flat-square&logo=tailwindcss&logoColor=a78bfa)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0b0820?style=flat-square&logoColor=a78bfa)
+![Cursor](https://img.shields.io/badge/Cursor-0b0820?style=flat-square&logo=cursor&logoColor=a78bfa)
 
 </div>
 
----
+<br/>
 
-## 📊 Stats
+## 📈 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mushfiq-faiyaz&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiq-faiyaz&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mushfiq-faiyaz&show_icons=true&hide_border=true&bg_color=0b0820&title_color=a78bfa&icon_color=22d3ee&text_color=ffffff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiq-faiyaz&hide_border=true&background=0b0820&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
 
 </div>
 
----
+<br/>
 
-## 🎬 Off-GitHub
+## 🎬 Beyond code
 
-- 📺 **Curosoul** on YouTube: facts, history and geopolitics
-- 🔬 General member of **JURS** (JU Research Society)
+- 📺 **Curosoul**, my YouTube channel on facts, history and geopolitics
+- 🔬 General member of **JURS**, the JU Research Society
+
+<br/>
+
+## 📬 Let's work together
+
+I'm open to freelance work and collaborations in AI and product building.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f0c29&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0820)](https://www.linkedin.com/in/mushfiqur-rahman-faiyaz)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0b0820&height=90&section=footer" width="100%" alt=""/>
 
 </div>
