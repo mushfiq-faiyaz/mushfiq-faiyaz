@@ -6,7 +6,7 @@
 
 <img src="avatar.jpeg" width="170" alt="Mushfiqur Rahman Faiyaz"/>
 
-### Data Science student. AI builder. Designer at heart.
+### Statistics student. AI builder. Designer at heart.
 *I turn ideas into working products, and data into decisions.*
 
 <br/>
@@ -65,18 +65,17 @@ More products in the RanFy Inc. lineup
 
 <br/>
 
-## 🧰 Tools I work with
+## 🧰 Skills
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0b0820?style=flat-square&logo=python&logoColor=a78bfa)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4c1d95?style=for-the-badge&labelColor=0b0820)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-22d3ee?style=for-the-badge&labelColor=0b0820)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0b0820?style=flat-square&logoColor=a78bfa)
-![Cursor](https://img.shields.io/badge/Cursor-0b0820?style=flat-square&logo=cursor&logoColor=a78bfa)
+![Statistics](https://img.shields.io/badge/Statistics-4c1d95?style=for-the-badge&labelColor=0b0820)
 ![Data Science](https://img.shields.io/badge/Data%20Science-7c3aed?style=for-the-badge&labelColor=0b0820)
-![Music Production](https://img.shields.io/badge/Music%20Production-4c1d95?style=for-the-badge&labelColor=0b0820)
 ![LLMs and RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-22d3ee?style=for-the-badge&labelColor=0b0820)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4c1d95?style=for-the-badge&labelColor=0b0820)
+![Built with Cursor](https://img.shields.io/badge/AI--Assisted%20Building-Cursor-7c3aed?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0b0820)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-22d3ee?style=for-the-badge&labelColor=0b0820)
+![Music Production](https://img.shields.io/badge/Music%20Production-4c1d95?style=for-the-badge&labelColor=0b0820)
 
 </div>
 
@@ -89,13 +88,15 @@ More products in the RanFy Inc. lineup
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mushfiq-faiyaz&show_icons=true&hide_border=true&bg_color=0b0820&title_color=a78bfa&icon_color=22d3ee&text_color=ffffff"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiq-faiyaz&hide_border=true&background=0b0820&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
 
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mushfiq-faiyaz&bg_color=0b0820&color=a78bfa&line=7c3aed&point=22d3ee&area=true&hide_border=true)
+
 </div>
 
 <br/>
 
 ## 🎬 Beyond code
 
-- 📺 Critical Thinking
+- 📺 **Curosoul**, my YouTube channel on facts, history and geopolitics
 - 🔬 General member of **JURS**, the JU Research Society
 
 <br/>
@@ -109,6 +110,8 @@ I'm open to freelance work and collaborations in AI and product building.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0820)](https://www.linkedin.com/in/mushfiqur-rahman-faiyaz)
 
 <br/>
+
+![Views](https://komarev.com/ghpvc/?username=mushfiq-faiyaz&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0b0820)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0b0820&height=90&section=footer" width="100%" alt=""/>
 
