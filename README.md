@@ -6,7 +6,7 @@
 
 <img src="avatar.jpeg" width="170" alt="Mushfiqur Rahman Faiyaz"/>
 
-### Statistics student. AI builder. Designer at heart.
+### Data Science student. AI builder. Designer at heart.
 *I turn ideas into working products, and data into decisions.*
 
 <br/>
@@ -105,7 +105,7 @@ More from RanFy Inc.: **Fresh Texfy**
 
 ## 🎬 Beyond code
 
-- 📺 **Curosoul**, my YouTube channel on facts, history and geopolitics
+- 📺 Critical & Product thinking
 - 🔬 General member of **JURS**, the JU Research Society
 
 <br/>
