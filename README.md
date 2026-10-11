@@ -70,11 +70,13 @@ More products in the RanFy Inc. lineup
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0b0820?style=flat-square&logo=python&logoColor=a78bfa)
-![React](https://img.shields.io/badge/React-0b0820?style=flat-square&logo=react&logoColor=a78bfa)
-![Vite](https://img.shields.io/badge/Vite-0b0820?style=flat-square&logo=vite&logoColor=a78bfa)
-![Tailwind](https://img.shields.io/badge/Tailwind-0b0820?style=flat-square&logo=tailwindcss&logoColor=a78bfa)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4c1d95?style=for-the-badge&labelColor=0b0820)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-22d3ee?style=for-the-badge&labelColor=0b0820)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0b0820?style=flat-square&logoColor=a78bfa)
 ![Cursor](https://img.shields.io/badge/Cursor-0b0820?style=flat-square&logo=cursor&logoColor=a78bfa)
+![Data Science](https://img.shields.io/badge/Data%20Science-7c3aed?style=for-the-badge&labelColor=0b0820)
+![Music Production](https://img.shields.io/badge/Music%20Production-4c1d95?style=for-the-badge&labelColor=0b0820)
+![LLMs and RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-22d3ee?style=for-the-badge&labelColor=0b0820)
 
 </div>
 
